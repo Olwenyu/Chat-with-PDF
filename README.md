@@ -2,6 +2,8 @@
 
 This application allows users to upload PDF documents and interact with them by asking natural language questions. Built using **LangChain** and **Ollama**, it leverages **embeddings** and **vector storage** to perform efficient document retrieval and generate **concise, context-aware answers**.
 
+The project is implemented based on the video tutorial: [Chat with PDFs with Deepseek Ollama LangChain](https://www.youtube.com/watch?v=vfpe2S22g4c)
+
 ---
 
 ## Features
